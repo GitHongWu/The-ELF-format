@@ -16,6 +16,7 @@ You can perform the symbol table check by running make test within the hw1 direc
 
 Symbol table ‘.symtab’ contains 25 entries:
 
+<code>
 Num:	Value	Size	Type	Bind	Vis	Ndx	Name
 0:	0000000000000000	0	NOTYPE	LOCAL	DEFAULT	UND  
 1:	0000000000000000	0	FILE	LOCAL	DEFAULT	ABS	hw1.c  
@@ -42,6 +43,7 @@ Num:	Value	Size	Type	Bind	Vis	Ndx	Name
 22:	0000000000000004	4	OBJECT	GLOBAL	DEFAULT	COM	they_are_arbitrary  
 23:	0000000000000010	8	OBJECT	GLOBAL	DEFAULT	3	so_random  
 24:	00000000000000d5	41	FUNC	GLOBAL	DEFAULT	1	and_so_varied  
+<code/>
 
 Hints:
 
