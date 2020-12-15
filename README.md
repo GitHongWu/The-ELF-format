@@ -16,7 +16,7 @@ You can perform the symbol table check by running make test within the hw1 direc
 
 Symbol table ‘.symtab’ contains 25 entries:
 
-Num:	Value	Size	Type	Bind	Vis	Ndx	Name  
+Num:	 Value Size	  Type Bind	   Vis	  Ndx	  Name  
 0:	0000000000000000	0	NOTYPE	LOCAL	DEFAULT	UND   
 1:	0000000000000000	0	FILE	LOCAL	DEFAULT	ABS	hw1.c   
 2:	0000000000000000	0	SECTION	LOCAL	DEFAULT	1	  
