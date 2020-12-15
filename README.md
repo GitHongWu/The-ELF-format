@@ -1,4 +1,4 @@
-# CS361 Homework 1 The-ELF-format
+# The-ELF-format
 
 The primary objective of this homework is to get you familiarized with the ELF file format and the process of linking executables. The secondary goal of this assignment is to give you some experience using the Gradescope autograder and turnin system.
 
